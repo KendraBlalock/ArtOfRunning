@@ -14,7 +14,7 @@ library(lubridate)
 ```
 
 ## Running
-A perk to living in the PNW is the opportunity to enjoy a wide range of outdoor adventures. As eagerly as I took up cycling, skiing, kayaking, hiking, and backpacking, I viewed running with distain. The sport seemed lack luster after numerous attempts to run with asthma. Sometimes it is the small things, like breathing, that really dominate experiences. 
+A perk to living in the PNW is the opportunity to enjoy a wide range of outdoor adventures. As eagerly as I took up cycling, skiing, kayaking, hiking, and backpacking, I viewed running with distain. The sport seemed lackluster after numerous attempts to run with asthma. Sometimes it is the small things, like breathing, that really dominate experiences. 
 
 Then, armed with a new inhaler, I made an impromptu decision to jog 0.75 miles to my friend's house instead of walking. A year later, I am making my final preparations for my first marathon. 
 
@@ -90,6 +90,6 @@ It took me a couple of tries to find an exporting method that produced a clean e
 ![](2020-5.png)
 
 ## Final Product
-From here I imported all of the plots into Adobe Illustrator, layering them with the most recent (and longest) runs on the bottom to the beginning runs (and shortest) on top. I applied a range of color gradation from hot pink to dark blue to produce this final plot:    
+From here I imported all of the plots into Adobe Illustrator with the goal of taking simple data and creating a visualization that is attractive and displays the progression of my marathon training. To produce an effect resembling a flower opened to the sun, I layered the plots with the most recent (and longest) runs on the bottom to the beginning runs (and shortest) on top. Then I applied a range of color gradation from hot pink to dark blue to produce this final plot:    
 
 ![](ArtOfRunning_v1.png)
