@@ -92,4 +92,4 @@ It took me a couple of tries to find an exporting method that produced a clean e
 ## Final Product
 From here I imported all of the plots into Adobe Illustrator with the goal of taking simple data and creating a visualization that is attractive and displays the progression of my marathon training. To produce an effect resembling a flower opened to the sun, I layered the plots with the most recent (and longest) runs on the bottom to the beginning runs (and shortest) on top. Then I applied a range of color gradation from hot pink to dark blue to produce this final plot:    
 
-![](ArtOfRunning_v1.png)
+![](ArtOfRunning_v3_v2_Original1.png)
